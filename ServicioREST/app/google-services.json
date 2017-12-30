@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "73416106775",
+    "firebase_url": "https://serviciorest-7c8e7.firebaseio.com",
+    "project_id": "serviciorest-7c8e7",
+    "storage_bucket": "serviciorest-7c8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73416106775:android:4d1151a132002e93",
+        "android_client_info": {
+          "package_name": "com.bryansilverio.serviciorest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73416106775-t5hiio8mh9euull18dj64hebhl3it522.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGDc7V_fLUFZ7jvKmvEFQWDHThQjEuJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
